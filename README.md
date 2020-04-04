@@ -3,3 +3,4 @@
 1. Just an Experimentation with the open source
 ### Installation
 1. Extract the files
+2. Copy them in a Single folder
