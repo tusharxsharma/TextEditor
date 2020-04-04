@@ -5,3 +5,4 @@
 1. Extract the files
 2. Copy them in a Single folder
 3. Run the index.html
+ 
