@@ -4,5 +4,7 @@
 ### Installation
 1. Extract the files
 2. Copy them in a Single folder
-3. Run the index.html
+3. Run the index.html 
+### Run in Browser
+* http://htmlpreview.github.io/?https://github.com/tusharxsharma/Online-TextEditor/blob/master/index.html
  
