@@ -1,5 +1,5 @@
 document.getElementById("heading").innerHTML =
-  localStorage["title"] || "Online Text Editor"; // default text
+  localStorage["title"] || "Text Editor"; // default text
 document.getElementById("content").innerHTML =
   localStorage["text"] || "This text is automatically saved every second :D "; // default text
 
